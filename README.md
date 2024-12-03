@@ -1,1 +1,1 @@
-# EduAdi
+EduAdi is a responsive learning platform interface built with HTML5 and CSS3. The platform offers an intuitive design optimized for all screen sizes, featuring smooth navigation and an engaging course browsing experience. The project demonstrates practical implementation of responsive design principles while maintaining fast loading times across devices.
